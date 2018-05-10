@@ -3,8 +3,6 @@
   "version": "0.0.10",
   "description": "A React Native Keyboard Accessory (View, Navigation) Component. Sticky views on keyboard.",
   "author": {
-    "name": "Arda Oğulcan Pektaş",
-    "email": "ardaogulcan@gmail.com"
   },
   "scripts": {
     "start": "./scripts/start-example.sh"
